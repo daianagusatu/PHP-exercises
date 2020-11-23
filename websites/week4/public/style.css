@@ -1,0 +1,59 @@
+.square1{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.square2{
+    width: 130px;
+    height: 130px;
+    background-color: black;
+}
+
+.square3{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.square4{
+    width: 190px;
+    height: 190px;
+    background-color: yellow;
+}
+
+.square5{
+    width: 160px;
+    height: 160px;
+    background-color: green;
+}
+
+.square6{
+    width: 20px;
+    height: 20px;
+    background-color: brown;
+}
+
+.square7{
+    width: 60px;
+    height: 60px;
+    background-color: grey;
+}
+
+.square8{
+    width: 90px;
+    height: 90px;
+    background-color: seagreen;
+}
+
+.square9{
+    width: 150px;
+    height: 150px;
+    background-color: teal;
+}
+
+.square10{
+    width: 450px;
+    height: 450px;
+    background-color: lawngreen;
+}
